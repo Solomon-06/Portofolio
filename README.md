@@ -20,5 +20,6 @@
 <h1 align='center'>📫 Contact Me</h1>
 <p align='center'>Email: biasolo0611@gmail.com</p>
 <p align='center'>Linkedin: https://www.linkedin.com/in/solomon07/</p>
-<p align='center'></p>
+<p align='center'>CV: <a href="https://drive.google.com/uc?export=download&id=1fO8c3X7dG6buNksdGkzGIAuWYbrql2sM" target="_blank" download>Download CV</a>
+</p>
 <p align='center'></p>
